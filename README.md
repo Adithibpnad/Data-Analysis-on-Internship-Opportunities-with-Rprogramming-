@@ -1,2 +1,36 @@
-# Data-Analysis-on-Internship-Opportunities-with-Rprogramming-
-This R programming project utilizes Kaggle data to analyze internship opportunities. The process involves data loading, cleaning, and analysis, including the removal of duplicates and handling missing values. The project explores key statistics such as mean and median stipends, visualizes internship distributions by location and duration through bar charts, histograms, and pie charts, and investigates company-wise internship counts. The use of ggplot2 and dplyr libraries enhances data visualization and manipulation. The project also includes a simple linear regression analysis. This GitHub repository provides a comprehensive overview of internship trends and serves as a valuable resource for data enthusiasts exploring the internship landscape.
+# Data Analysis on Internship Opportunities with R Programming
+
+Welcome to the **Data Analysis on Internship Opportunities with R Programming** repository! This project explores and analyzes internship opportunities using R and Jupyter Notebooks.
+
+## 📊 Project Overview
+
+This repository provides a deep dive into internship data, uncovering trends, insights, and actionable recommendations for students and job seekers. Leveraging the power of R and data visualization libraries, the analysis aims to answer key questions about the internship landscape.
+
+## 🚀 Features
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations (plots, charts, etc.)
+- Insights and Recommendations
+- Reproducible Jupyter Notebooks
+
+## 🛠️ Technologies Used
+
+- **Jupyter Notebook**
+- **R Programming**
+- Data Visualization Libraries (e.g., ggplot2)
+
+## 📂 Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Adithibpnad/Data-Analysis-on-Internship-Opportunities-with-Rprogramming-.git
+   ```
+2. Open the notebooks using JupyterLab or Jupyter Notebook.
+3. Follow the instructions in each notebook to reproduce the analysis.
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+---
